@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "vercel-xhttp-relay",
+  "name": "iamjuju",
   "rewrites": [
     { "source": "/(.*)", "destination": "/api/index" }
   ],
